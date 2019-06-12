@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://reactApp:Heartgrenade1265@contactkeeper-ozuw4.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://reactApp:Heartgrenade1265@contactkeeper-ozuw4.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
 }
