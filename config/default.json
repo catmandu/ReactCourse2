@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://reactApp:Heartgrenade1265@contactkeeper-ozuw4.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "secret"
+  "mongoURI": "mongodb+srv://reactApp:contactKeeper@contactkeeper-ozuw4.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "C016BFDA872B3254CA36680F4FC5AB14FCB7B600BDB85F7E4FBF17D43E321A38"
 }
